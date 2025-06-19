@@ -1,5 +1,6 @@
 ## 📦 Supply Chain Performance Dashboard
 
+### 🔗 [Download Dashboard (.pbix)](https://drive.google.com/file/d/1SboVedAXDcpP4KnTjuaMTlN7h204rq7D/view?usp=sharing)
 **Tools Used**: Power BI · Excel · DAX · Data Modeling  
 **Timeline**: Oct 2024 – Dec 2024  
 **Domain**: Logistics & Inventory Management  
@@ -82,4 +83,4 @@ This dashboard was designed to monitor and optimize the end-to-end supply chain 
 
 ---
 
-### 🔗 [Download Dashboard (.pbix)](https://drive.google.com/file/d/1SboVedAXDcpP4KnTjuaMTlN7h204rq7D/view?usp=sharing)) *(Optional)*  
+### 🔗 [Download Dashboard (.pbix)](https://drive.google.com/file/d/1SboVedAXDcpP4KnTjuaMTlN7h204rq7D/view?usp=sharing) 
